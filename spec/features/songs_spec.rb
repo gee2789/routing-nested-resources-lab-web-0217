@@ -1,3 +1,4 @@
+require 'rails_helper'
 describe "songs", type:  :feature do
 
   before do
